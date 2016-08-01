@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Jason",
+		"age": "26",
+		"gender": "male",
+		"appeareance": {
+			"eye-color": "brown",
+			"hair": "short"
+		}
+	},
+  {
+    "name": "Nosaj, the evil twin I killed and absorbed in the womb",
+    "age": "Should be 26",
+    "gender": "Should be a male",
+    "appeareance": {
+      "eye-color": "Maybe red eyes",
+      "hair": "Could have short hair or... long hair..."
+    }
+  },
+  {
+    "name": "Bing Bong, the imaginary friend",
+    "age": "Cannot calculate",
+    "gender": "Should be a male that sounds like Richard Kind",
+    "appeareance": {
+      "eye-color": "Black eyes",
+      "hair": "Have no hair but has elephant trunks"
+    }
+  }
+]
